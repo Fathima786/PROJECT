@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-12T19:42:56 IST" name="Default suite" finished-at="2024-06-12T19:45:34 IST" duration-ms="158316">
+    <groups>
+    </groups>
+    <test started-at="2024-06-12T19:42:56 IST" name="Default test" finished-at="2024-06-12T19:45:34 IST" duration-ms="158316">
+      <class name="TESTPACKAGE.TestClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:42:56 IST" name="setup" finished-at="2024-06-12T19:43:11 IST" duration-ms="15042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="categoriesphoneclick()[pri:1, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:43:11 IST" name="categoriesphoneclick" finished-at="2024-06-12T19:43:20 IST" duration-ms="8821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoriesphoneclick -->
+        <test-method signature="listofphone()[pri:2, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:43:20 IST" name="listofphone" finished-at="2024-06-12T19:43:51 IST" duration-ms="30903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listofphone -->
+        <test-method signature="listofiphone()[pri:3, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:43:51 IST" name="listofiphone" finished-at="2024-06-12T19:44:05 IST" duration-ms="13619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listofiphone -->
+        <test-method signature="carclick()[pri:4, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:44:05 IST" name="carclick" finished-at="2024-06-12T19:44:15 IST" duration-ms="10408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carclick -->
+        <test-method signature="logo()[pri:5, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:44:15 IST" name="logo" finished-at="2024-06-12T19:44:24 IST" duration-ms="9296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logo -->
+        <test-method signature="motorcycle()[pri:6, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:44:24 IST" name="motorcycle" finished-at="2024-06-12T19:44:25 IST" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- motorcycle -->
+        <test-method signature="scooterclick()[pri:7, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:44:25 IST" name="scooterclick" finished-at="2024-06-12T19:45:08 IST" duration-ms="43062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scooterclick -->
+        <test-method signature="menulist()[pri:8, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:45:08 IST" name="menulist" finished-at="2024-06-12T19:45:08 IST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menulist -->
+        <test-method signature="location()[pri:9, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:45:08 IST" name="location" finished-at="2024-06-12T19:45:34 IST" duration-ms="25320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- location -->
+        <test-method signature="screenshot()[pri:10, instance:TESTPACKAGE.TestClass@5fe94a96]" started-at="2024-06-12T19:45:34 IST" name="screenshot" finished-at="2024-06-12T19:45:34 IST" duration-ms="879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+      </class> <!-- TESTPACKAGE.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
